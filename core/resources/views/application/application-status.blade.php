@@ -488,7 +488,7 @@
                                         <th><strong>{{ trans('app.total_contribution') }}</strong></th>
                                         <th class="status-column"><strong>{{ trans('app.admin_staff_status') }}</strong></th>
                                         <th class="status-column"><strong>{{ trans('app.approver_status') }}</strong></th>
-                                        <th><strong>{{ trans('app.overall_status') }}</strong></th>
+                                        <th><strong>{{ trans('app.overall_statu') }}</strong></th>
                                     </tr>
                                 </thead>
                                 <tbody>
